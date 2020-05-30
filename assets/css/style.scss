@@ -4,6 +4,9 @@
 
 @import "{{ site.theme }}";
 
-inner{
- max-width: 900px;
+.inner {
+  position: relative;
+  max-width: 900px;
+  padding: 20px 10px;
+  margin: 0 auto;
 }
