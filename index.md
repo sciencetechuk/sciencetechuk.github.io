@@ -1,7 +1,3 @@
----
-layout: home
----
-
 Welcome to ScienceTech.Ltd
 
 
