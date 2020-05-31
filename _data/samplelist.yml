@@ -5,7 +5,7 @@ docs:
   url: Consultancy.html
 
 - title: Medical Solutions
-  url: MedicalSolutions
+  url:{{site.baseurl}}/MedicalSolutions
 
 - title: AI Division
   url: AIDivision.html
