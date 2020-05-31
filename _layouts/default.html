@@ -12,6 +12,13 @@
 
   <body>
 
+	<style>
+		a.one:link {color:#ff0000;}
+		a.one:visited {color:#0000ff;}
+		a.one:hover {color:#ffcc00;}
+	</style>
+
+
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
@@ -24,7 +31,7 @@
 			<p style="text-align: right; color: white;">
 	
 			   {% for item in site.data.samplelist.docs %}
-				  <a href="{{ item.url }}" class="nav_links">{{ item.title }}</a> |
+				  <a class="one" href="{{ item.url }}">{{ item.title }}</a> |
 			   {% endfor %}
 			</p>
     </div>
