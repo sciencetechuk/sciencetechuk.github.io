@@ -1,6 +1,6 @@
 ---
 title: Medical Solutions
-permalink: /MedicalSolutions
+permalink: /MedicalSolutions.html
 ---
 
 This is Medical Solutions placeholder
