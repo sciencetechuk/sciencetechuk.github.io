@@ -2,13 +2,13 @@ docs_list_title: Navigation menu
 docs:
 
 - title: Consultancy Services
-  url: introduction.html
+  url: Consultancy.html
 
 - title: Medical Solutions
-  url: configuration.html
+  url: MedicalSolutions.html
 
 - title: AI Division
-  url: deployment.html
+  url: AIDivision.html
 
 - title: Robotics
-  url: deployment.html
+  url: RoboticsDivision.html
