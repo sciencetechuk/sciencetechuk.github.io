@@ -36,9 +36,18 @@
 			<p style="text-align: right; color: white;">
 	
 			   {% for item in site.data.samplelist.docs %}
+			   
+			    {% if item.url=site.url%}
+				<p>match</p>
+				{% endif %}	
+				 
 				  <a class="one" href="{{ item.url }}">{{ item.title }}</a> |
 			   {% endfor %}
 			</p>
+			
+			site.url = {{ site.url }}
+			site.baseurl = {{ site.baseurl}}
+			item.url = {{ item.url }}
     </div>
 
     <!-- MAIN CONTENT -->
