@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 title: ScienceTech Ltd
 description: Helping you thrive in a digital world.
-baseurl:"/"
+url: https://sciencetech.github.io
