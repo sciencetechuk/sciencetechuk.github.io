@@ -1,11 +1,11 @@
-docs_list_title: ACME Documentation
+docs_list_title: Navigation menu
 docs:
 
-- title: Introduction
+- title: Consultancy Services
   url: introduction.html
 
-- title: Configuration
+- title: Medical Solutions
   url: configuration.html
 
-- title: Deployment
+- title: AI
   url: deployment.html
