@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Solutions
-permalink: /Solutions/
+title: Medical Solutions
+permalink: /MedicalSolutions/
 ---
 
-This is solutions placeholder
+This is Medical Solutions placeholder
