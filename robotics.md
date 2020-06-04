@@ -203,7 +203,12 @@ summary {
 
 <style>
 
-#main_content { max-width: 100%; ! important; }
+#main_content 
+{ 
+		max-width: 100%; ! important; 
+		padding-top: 0px ! important; 
+		
+}
 
 </style>
 
