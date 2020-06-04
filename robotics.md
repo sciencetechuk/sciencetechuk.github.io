@@ -5,6 +5,34 @@ permalink: /RoboticsDivision.html
 
 This is a placeholder for Robotics Division page
 
+
+Lets add here some dummy text
+
+
+Lets add here some dummy text
+
+
+Lets add here some dummy text
+
+
+Lets add here some dummy text
+
+
+Lets add here some dummy text
+
+
+Lets add here some dummy text
+
+
+Lets add here some dummy text
+
+
+
+Lets add here some dummy text
+
+
+
+
 <div id="text"></div>
  
 <script>
