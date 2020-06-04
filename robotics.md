@@ -203,7 +203,7 @@ summary {
 
 <style>
 
-.main_content { width:100% ! important; }
+.main_content { max-width: 100%; ! important; }
 
 </style>
 
