@@ -213,17 +213,6 @@ summary {
 </div>
 
 
-
-		 <div id="text"></div>
-
-
-
-
- 
-<script>
-document.getElementById("text").innerHTML = "Text added by JavaScript code";
-</script>
-
 <script>
 /*!
  * VERSION: 1.13.1
