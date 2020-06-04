@@ -3,35 +3,6 @@ title: Robotics Division
 permalink: /RoboticsDivision.html
 ---
 
-This is a placeholder for Robotics Division page
-
-
-Lets add here some dummy text
-
-
-Lets add here some dummy text
-
-
-Lets add here some dummy text
-
-
-Lets add here some dummy text
-
-
-Lets add here some dummy text
-
-
-Lets add here some dummy text
-
-
-Lets add here some dummy text
-
-
-
-Lets add here some dummy text
-
-
-
 <style>
 button, hr, input {
  overflow: visible
@@ -230,17 +201,20 @@ summary {
 
 </style>
 
+
+
 <div class="container demo">
    <div class="content">
       <div id="large-header" class="large-header">
          <canvas id="demo-canvas"></canvas>
-         <h1 class="main-title"><span class="thin">We are on our way....</h1>
-		 
-		 <div id="text"></div>
-		 
+         <h1 class="main-title"><span class="thin">We are on our way</h1>
       </div>
    </div>
 </div>
+
+
+
+		 <div id="text"></div>
 
 
 
