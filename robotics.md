@@ -210,6 +210,9 @@ summary {
 		
 }
 
+#main_content_wrap {border-bottom: 0px  ! important;}
+
+
 </style>
 
 <div class="container demo">
