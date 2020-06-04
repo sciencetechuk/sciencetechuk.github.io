@@ -31,6 +31,7 @@ Lets add here some dummy text
 Lets add here some dummy text
 
 
+
 <style>
 button, hr, input {
  overflow: visible
@@ -229,7 +230,21 @@ summary {
 
 </style>
 
-<div id="text"></div>
+<div class="container demo">
+   <div class="content">
+      <div id="large-header" class="large-header">
+         <canvas id="demo-canvas"></canvas>
+         <h1 class="main-title"><span class="thin">We are on our way....</h1>
+		 
+		 <div id="text"></div>
+		 
+      </div>
+   </div>
+</div>
+
+
+
+
  
 <script>
 document.getElementById("text").innerHTML = "Text added by JavaScript code";
