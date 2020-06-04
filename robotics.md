@@ -201,9 +201,13 @@ summary {
 
 </style>
 
+<style>
 
+.main_content { width:100% ! important; }
 
-<div class="container demo" style="width:100% ! important;">
+</style>
+
+<div class="container demo">
    <div class="content">
       <div id="large-header" class="large-header">
          <canvas id="demo-canvas"></canvas>
