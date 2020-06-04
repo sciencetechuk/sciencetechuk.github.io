@@ -203,7 +203,7 @@ summary {
 
 
 
-<div class="container demo">
+<div class="container demo" style="width:100% ! important;">
    <div class="content">
       <div id="large-header" class="large-header">
          <canvas id="demo-canvas"></canvas>
