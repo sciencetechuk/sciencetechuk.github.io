@@ -207,6 +207,7 @@ summary {
 { 
 		max-width: 100%; ! important; 
 		padding-top: 0px ! important; 
+		padding: 0px 0px ! important;
 		
 }
 
